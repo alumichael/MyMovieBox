@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="autosize_text_sizes">
+        <item>@dimen/font_small</item>
+        <item>@dimen/font_normal</item>
+        <item>@dimen/font_large</item>
+        <item>@dimen/font_larger</item>
+        <item>@dimen/font_huge</item>
+    </array>
+</resources>

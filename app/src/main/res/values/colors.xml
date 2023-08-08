@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColor">#673AB7</color>
+    <color name="primaryLightColor">#D1C4E9</color>
+    <color name="primaryDarkColor">#512DA8</color>
+    <color name="secondaryColor">#FFC107</color>
+    <color name="secondaryDarkColor">#C69605</color>
+    <color name="primaryTextColor">#ffffff</color>
+    <color name="secondaryTextColor">#000000</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="whiteBackground">#ffffff</color>
+    <color name="foreground">#F3F4FC</color>
+    <color name="ic_launcher_background">#0D253F</color>
+</resources>
